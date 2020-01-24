@@ -1,0 +1,4 @@
+S. 36 Die Folge (1/n^s) ist konvergent für s>=0 und divergent für s<0
+
+Aufgaben - Äquivalenz
+https://de.serlo.org/mathe/hochschule/grundlagen-mathematik/relationen/aufgaben-aequivalenzrelationen
